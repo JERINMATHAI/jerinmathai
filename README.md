@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [e-commerce](https://github.com/JERINMATHAI/Beautify.git)
 
-- 🌱 I’m currently learning **Golang, Gin, Testing, CI-CD, AWS, JWT**
+- 🌱 I’m currently learning **Golang, Gin, Testing, CI-CD, AWS, Docker, Kubernetes, Microservices, JWT**
 
-- 💬 Ask me about **Golang, Git, Postgres, AWS, JWT, MongoDB**
+- 💬 Ask me about **Golang, Git, Postgres, AWS, Docker, Kubernetes, Microservices, JWT, MongoDB**
 
 - 📫 How to reach me **jerinmathai04@gmail.com**
 
